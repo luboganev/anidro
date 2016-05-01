@@ -16,6 +16,11 @@ Download
 
 You can download the latest version of Anidro from [Google Play](https://play.google.com/store/apps/details?id=app.anidro).
 
+Source
+--------
+
+Anidro is open source. You can find the source code [here](https://github.com/luboganev/anidro-open-source).
+
 About
 -----
 
