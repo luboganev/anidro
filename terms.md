@@ -3,7 +3,7 @@ layout: page
 permalink: /terms/
 title: Terms of use
 description: "Anidro Terms of Use"
-modified: 2015-10-13
+modified: 2019-06-07
 ---
 
 __The following Terms of Use (“Terms”or “Agreement”) constitutes a legal agreement between you (“you”) and, and Lyubomir Ganev (“Developer”). YOUR RIGHT TO ACCESS AND USE THE ANIDRO APPLICATION (“APPLICATION”) IS EXPRESSLY CONDITIONED ON ACCEPTANCE OF THESE TERMS. BY ACCESSING OR USING THE APPLICATION, YOU AGREE TO BE BOUND BY THESE TERMS.__
@@ -32,6 +32,4 @@ __8. MPEG-4 Notice.__ This product is licensed under the MPEG-4 Systems Patent P
 
 __9. H.264/AVC Notice.__ To the extent that the Application contains AVC encoding and/or decoding functionality, commercial use of H.264/AVC requires additional licensing and the following provision applies: THE AVC FUNCTIONALITY IN THIS PRODUCT IS LICENSED HEREIN ONLY FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO ENCODE VIDEO IN COMPLIANCE WITH THE AVC STANDARD ("AVC VIDEO").
 
-__10. Crashlytics Notice.__ In order to provide continuous improvement, the Application uses the crash reporting service Crashlytics. By agreeing with this Agreement you also agree with the terms of the Crashlytics service. For more information, please refer to the Crashlytics terms under the following address: [http://try.crashlytics.com/terms/terms-of-service.pdf](http://try.crashlytics.com/terms/terms-of-service.pdf)
-
-__11. Answers Notice.__ In order to provide continuous improvement, the Application uses the analytics service Answers. By agreeing with this Agreement you also agree with the terms of the Answers service. For more information, please refer to the Answers terms under the following address: [https://answers.io/img/terms.pdf](https://answers.io/img/terms.pdf)
+__10. Crashlytics Notice.__ In order to provide continuous improvement, the Application uses the crash reporting service Crashlytics. By agreeing with this Agreement you also agree with the terms of the Crashlytics service. For more information, please refer to the Crashlytics terms under the following address: [https://firebase.google.com/terms/crashlytics](https://firebase.google.com/terms/crashlytics)
