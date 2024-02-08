@@ -3,11 +3,6 @@ Anidro
 
 This is the official homepage of the Anidro app.
 
-Download
---------
-
-You can download the latest version of Anidro from [Google Play][1].
-
 About
 -----
 
@@ -24,7 +19,3 @@ Step 3:
 Send it to friends or family or share it on your favourite social network
 
 Unleash your inner artist and start creating animated drawings! 
-
-
-
- [1]: https://play.google.com/store/apps/details?id=app.anidro
