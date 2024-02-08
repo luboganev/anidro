@@ -11,11 +11,6 @@ Anidro
 
 This is the official homepage of the Anidro app.
 
-Download
---------
-
-You can download the latest version of Anidro from [Google Play](https://play.google.com/store/apps/details?id=app.anidro).
-
 About
 -----
 
